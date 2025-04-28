@@ -55,86 +55,133 @@ Which team attributes have the biggest impact on total goals scored?
 
 How did the aggregated goals for the top five scoring teams in Spain's La Liga evolve over time?
 
+The total and average number of goals per league in 2011/2012 Season?how many goals were scored in each match in 2011/2012, and how did that compare to the average
+
+Average number of goals scored in match across all seasons?
+
+Average Goals per Match by Country (2008/2009 Season) ?
+
+What is the average number of goals scored in each country across all match seasons ?
+
+Country's average goals differ from the over all avarage?
+
+How does each month's total goals differ from the monthly average of goals scored?
+
+Matches with10 goals ?
+
+Which match stages, where the stakes get higher in each stage, tend to have a higher than average number of goals scored on season 2013/2014 ?
+
 Did a player's BMI influence their performance score (overall rating)?
+
+Analyzing Real Madid Resuls 
+
+
+
 
 
 
 ### Results
 
-The analysis addressed each of the questions above, offering valuable insights:
-
 1.League Popularity
-France's Ligue 1 features the highest number of teams, followed by England’s La Liga (likely meant to be Premier League — double-check this!).
+
+The analysis revealed the distribution of teams across different national leagues. Notably, France's Ligue 1 hosts the highest number of teams, followed by England’s Premier League.
 <img src='image/result1.png'>
 
 2.League Activity
-Spain’s La Liga recorded the highest number of matches, attributed to its large number of teams and extended seasons.
+
+Leagues with a higher number of matches are typically those with more teams and extended seasons. For example, Spain's La Liga (LIGA BBVA) recorded the highest number of matches.
 <img src='image/result2.png'>
 
-3.Top Ten Teams by Performance
-Real Madrid, Barcelona, and Bayern Munich consistently rank among the highest-performing teams across multiple seasons.
+3.Top Ten Teams by Performance Over Seasons
+
+Teams such as Real Madrid, Barcelona, and Bayern Munich consistently ranked among the top across multiple seasons, both in total points and win percentage.
 <img src='image/result3.png'>
 
-4.Top 10 Players in Europe
-The standout players include Cristiano Ronaldo, Franck Ribéry, Lionel Messi, Philipp Lahm, Wayne Rooney, Xavi Hernández, Zlatan Ibrahimović, Arjen Robben, Cesc Fàbregas, and Petr Čech.
+4.Top 10 Players in Europe Over the Period
+
+The top-performing players included Cristiano Ronaldo, Franck Ribéry, Lionel Messi, Philipp Lahm, Wayne Rooney, Xavi Hernández, Zlatan Ibrahimović, Arjen Robben, Cesc Fàbregas, and Petr Čech.
 <img src='image/result5.png'>
 
-5.Trend Season
-The 2015-2016 season saw the highest number of goals (9,162), marking it as a standout "trend season."
+5.Trend Season Identification
+
+The 2015–2016 season stood out as the trend-setting period due to a notable surge in goals scored, reaching a total of 9,162 goals.
 <img src='image/result4.png'>
 
-6.Goals by Team and Season
-Real Madrid CF scored the highest number of home goals in the 2015-2016 season.
+6.Goals Scored by Each Team Grouped by Season
+
+Real Madrid CF achieved the highest number of home goals during the 2015–2016 season.
 <img src='image/result6.png'>
 
-7.Goals Per League: 2011/2012 Season
-<img src='image/avg.png'>
 
-8.Real Madrid CF Performance Over Seasons
-<img src='image/R.M%20goals%20per%20season.png'>
+7.Win Percentage and Match RecordsAverage number of goals scored in match across all seasons
 
-9.Real Madrid's Home vs. Away Wins
-<img src='image/Real%20Madid%20wins%20(home%20or%20away).png'>
-
-10.Real Madrid Home & Away Goals per Season
-<img src='image/Real%20Madrid%20CF%20-%20Home%20%26%20Away%20Goals%20per%20Season.png'>
-
-11.Average Goals per Season for Real Madrid
-<img src='image/AVG%20goals%20Real%20Madrid%20CF%20scored%20in%20each%20season.png'>
-
-12.Top 3 Teams with Highest Average Home Goals (Spain 2011/2012)
-<img src='image/Top%203%20Teams.png'>
-
-13.Win Percentage and Match Outcomes
-Juventus and Real Madrid stand out with high win percentages over multiple seasons.
+Teams like Juventus and Real Madrid consistently posted the highest win percentages over the analyzed seasons.
 <img src='image/win%20persentage.png'>
 
-14.Average Goals per Match by Country (2008/2009)
+8.Top Ten Teams with the Most Wins Across All Seasons and Leagues
+
+Real Madrid, Barcelona, and Bayern Munich emerged as the top three clubs with the most victories throughout the dataset.
+<img src='image/result7.png'>
+
+9.Team Attributes Impacting Performance (Goals Scored)
+
+Offensive strategies, the presence of star players, and solid defensive tactics were identified as key factors influencing a team's total goals scored.
+<img src='image/result8.png'>
+
+10.Aggregated Goals for the Top Five Highest-Scoring Teams in Spain (La Liga)
+
+The top five teams, including Real Madrid and Barcelona, demonstrated consistent goal-scoring performance with only minor seasonal variations.
+<img src='image/result11.png'> 
+
+11.The total and average number of goals per league in 2011/2012 Season
+
+The analysis highlighted clear differences in total and average goals scored across leagues during the 2011–2012 season.
+<img src='image/avg.png'>
+
+12.Average number of goals scored in match across all seasons
+
+<img src='image/avg%20goals%20pe%20match.png'>
+
+13.Average Goals per Match by Country (2008/2009 Season)
+
 <img src='image/Avg%20Goals%20%2020082009.png'>
 
+14.Country's average goals differ from the over all avarage
+
+<img src ="image/country's%20avarage%20goals.png">
+
 15.Monthly Goal Trends
+
 Goal-scoring totals fluctuate significantly by month.
 <img src='image/monthly.png'>
 
-16.Country-Wise Average Goals
-Country-specific goal averages deviate from the overall mean.
-<img src ="image/country's%20avarage%20goals.png">
+16.Fitness Insight: The Impact of BMI on Player Performance
 
-17.Top Ten Teams by Wins
-Real Madrid, Barcelona, and Bayern Munich lead in total wins across seasons.
-<img src='image/result7.png'>
-
-18.Key Team Attributes Affecting Performance
-Offensive strategies, player quality, and defensive tactics are highly correlated with goal-scoring success.
-<img src='image/result8.png'>
-
-19.Goal Trends for Top La Liga Teams
-Top clubs like Real Madrid and Barcelona show consistent goal-scoring with minor seasonal fluctuations.
-<img src='image/result11.png'>
-
-20.Player BMI and Performance
-A slight positive correlation suggests that players with an optimal BMI often achieve higher overall ratings.
+The analysis showed a slight correlation between players’ Body Mass Index (BMI) and their overall performance ratings. Players with an optimal BMI tended to achieve higher scores.
 <img src='image/result12.png'>
+
+17.Top 3 Teams with Highest Average Home Goals (Spain 2011/2012)
+
+<img src='image/Top%203%20Teams.png'>
+
+18.Analyze Real Madrid's Results
+
+Real Madrid's Home vs. Away Wins
+
+<img src='image/Real%20Madid%20wins%20(home%20or%20away).png'>
+
+Real Madrid Home & Away Goals per Season
+
+<img src='image/Real%20Madrid%20CF%20-%20Home%20%26%20Away%20Goals%20per%20Season.png'>
+
+Average Goals per Season for Real Madrid
+
+<img src='image/AVG%20goals%20Real%20Madrid%20CF%20scored%20in%20each%20season.png'>
+
+
+Real Madrid CF Performance Over Seasons
+
+<img src='image/R.M%20goals%20per%20season.png'>
 
 
     
@@ -184,3 +231,10 @@ GitHub: @maysasaad
 ### Repository Structure
 
 ├── data ├── images ├── README.md ├── Presentation.pdf └── Jupyter notebook.ipynb
+
+
+
+
+
+
+
